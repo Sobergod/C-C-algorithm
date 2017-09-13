@@ -1,0 +1,17 @@
+﻿生成启动时间为 2014/6/22/星期日 15:52:53。
+     1>项目“c:\Users\lenovo\documents\visual studio 2012\Projects\test2\test2\test2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\test2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt test2Dlg.cpp
+         test2Dlg.cpp
+       Link:
+         H:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lenovo\documents\visual studio 2012\Projects\test2\Debug\test2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:H:\vs\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"c:\users\lenovo\documents\visual studio 2012\Projects\test2\Debug\test2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lenovo\documents\visual studio 2012\Projects\test2\Debug\test2.lib" /MACHINE:X86 Debug\test2.res
+         Debug\MyDialog.obj
+         Debug\stdafx.obj
+         Debug\test2.obj
+         Debug\test2Dlg.obj
+         test2.vcxproj -> c:\users\lenovo\documents\visual studio 2012\Projects\test2\Debug\test2.exe
+     1>已完成生成项目“c:\Users\lenovo\documents\visual studio 2012\Projects\test2\test2\test2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78

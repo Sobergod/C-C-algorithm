@@ -1,0 +1,45 @@
+﻿生成启动时间为 2014/6/01/星期日 15:30:37。
+     1>项目“c:\Users\lenovo\documents\visual studio 2012\Projects\杭电2550百步穿杨\杭电2550百步穿杨\杭电2550百步穿杨.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "百步穿杨.cpp"
+         百步穿杨.cpp
+     1>c:\users\lenovo\documents\visual studio 2012\projects\杭电2550百步穿杨\杭电2550百步穿杨\百步穿杨.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 h:\vs\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>c:\users\lenovo\documents\visual studio 2012\projects\杭电2550百步穿杨\杭电2550百步穿杨\百步穿杨.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 h:\vs\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>c:\users\lenovo\documents\visual studio 2012\projects\杭电2550百步穿杨\杭电2550百步穿杨\百步穿杨.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 h:\vs\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>h:\vs\vc\include\algorithm(3619): error C2784: “bool std::operator <(const std::move_iterator<_RanIt> &,const std::move_iterator<_RanIt2> &)”: 未能从“Student”为“const std::move_iterator<_RanIt> &”推导 模板 参数
+                 h:\vs\vc\include\xutility(1983) : 参见“std::operator <”的声明
+                 h:\vs\vc\include\algorithm(3674): 参见对正在编译的函数 模板 实例化“std::pair<_Ty1,_Ty2> std::_Unguarded_partition<_RanIt>(_RanIt,_RanIt)”的引用
+                 with
+                 [
+                     _Ty1=Student *,
+                     _Ty2=Student *,
+                     _RanIt=Student *
+                 ]
+                 h:\vs\vc\include\algorithm(3702): 参见对正在编译的函数 模板 实例化“void std::_Sort<_Iter,int>(_RanIt,_RanIt,_Diff)”的引用
+                 with
+                 [
+                     _Iter=Student *,
+                     _RanIt=Student *,
+                     _Diff=int
+                 ]
+                 c:\users\lenovo\documents\visual studio 2012\projects\杭电2550百步穿杨\杭电2550百步穿杨\百步穿杨.cpp(23): 参见对正在编译的函数 模板 实例化“void std::sort<Student*>(_RanIt,_RanIt)”的引用
+                 with
+                 [
+                     _RanIt=Student *
+                 ]
+     1>h:\vs\vc\include\algorithm(3619): error C2784: “bool std::operator <(const std::reverse_iterator<_RanIt> &,const std::reverse_iterator<_RanIt2> &)”: 未能从“Student”为“const std::reverse_iterator<_RanIt> &”推导 模板 参数
+                 h:\vs\vc\include\xutility(1259) : 参见“std::operator <”的声明
+     1>h:\vs\vc\include\algorithm(3619): error C2784: “bool std::operator <(const std::_Revranit<_RanIt,_Base> &,const std::_Revranit<_RanIt2,_Base2> &)”: 未能从“Student”为“const std::_Revranit<_RanIt,_Base> &”推导 模板 参数
+                 h:\vs\vc\include\xutility(1075) : 参见“std::operator <”的声明
+     1>h:\vs\vc\include\algorithm(3619): error C2784: “bool std::operator <(const std::pair<_Ty1,_Ty2> &,const std::pair<_Ty1,_Ty2> &)”: 未能从“Student”为“const std::pair<_Ty1,_Ty2> &”推导 模板 参数
+                 h:\vs\vc\include\utility(232) : 参见“std::operator <”的声明
+     1>h:\vs\vc\include\algorithm(3619): error C2676: 二进制“<”:“Student”不定义该运算符或到预定义运算符可接收的类型的转换
+     1>h:\vs\vc\include\algorithm(3619): fatal error C1903: 无法从以前的错误中恢复；正在停止编译
+     1>已完成生成项目“c:\Users\lenovo\documents\visual studio 2012\Projects\杭电2550百步穿杨\杭电2550百步穿杨\杭电2550百步穿杨.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.38

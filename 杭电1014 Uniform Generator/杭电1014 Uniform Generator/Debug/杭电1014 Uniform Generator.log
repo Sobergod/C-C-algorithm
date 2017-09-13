@@ -1,0 +1,15 @@
+﻿生成启动时间为 2014/3/19/星期三 13:23:14。
+     1>项目“c:\Users\lenovo\documents\visual studio 2012\Projects\杭电1014 Uniform Generator\杭电1014 Uniform Generator\杭电1014 Uniform Generator.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "Uniform Generator.cpp"
+         Uniform Generator.cpp
+     1>c:\users\lenovo\documents\visual studio 2012\projects\杭电1014 uniform generator\杭电1014 uniform generator\uniform generator.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 h:\vs\vc\include\stdio.h(290) : 参见“scanf”的声明
+       Link:
+         H:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lenovo\documents\visual studio 2012\Projects\杭电1014 Uniform Generator\Debug\杭电1014 Uniform Generator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\lenovo\documents\visual studio 2012\Projects\杭电1014 Uniform Generator\Debug\杭电1014 Uniform Generator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lenovo\documents\visual studio 2012\Projects\杭电1014 Uniform Generator\Debug\杭电1014 Uniform Generator.lib" /MACHINE:X86 "Debug\Uniform Generator.obj"
+         杭电1014 Uniform Generator.vcxproj -> c:\users\lenovo\documents\visual studio 2012\Projects\杭电1014 Uniform Generator\Debug\杭电1014 Uniform Generator.exe
+     1>已完成生成项目“c:\Users\lenovo\documents\visual studio 2012\Projects\杭电1014 Uniform Generator\杭电1014 Uniform Generator\杭电1014 Uniform Generator.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.41

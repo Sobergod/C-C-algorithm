@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杭电1019  Least Common Multiple", "杭电1019  Least Common Multiple\杭电1019  Least Common Multiple.vcxproj", "{9122C951-4B23-4D41-856C-B39DC9733FFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9122C951-4B23-4D41-856C-B39DC9733FFE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9122C951-4B23-4D41-856C-B39DC9733FFE}.Debug|Win32.Build.0 = Debug|Win32
+		{9122C951-4B23-4D41-856C-B39DC9733FFE}.Release|Win32.ActiveCfg = Release|Win32
+		{9122C951-4B23-4D41-856C-B39DC9733FFE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

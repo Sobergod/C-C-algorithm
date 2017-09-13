@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杭电2162Add ‘em", "杭电2162Add ‘em\杭电2162Add ‘em.vcxproj", "{D5F9529F-F554-4D72-B214-5AA98287B2AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5F9529F-F554-4D72-B214-5AA98287B2AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D5F9529F-F554-4D72-B214-5AA98287B2AE}.Debug|Win32.Build.0 = Debug|Win32
+		{D5F9529F-F554-4D72-B214-5AA98287B2AE}.Release|Win32.ActiveCfg = Release|Win32
+		{D5F9529F-F554-4D72-B214-5AA98287B2AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杭电1556", "杭电1556\杭电1556.vcxproj", "{E82E5823-EA82-4FE0-B1B3-F134775BDA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82E5823-EA82-4FE0-B1B3-F134775BDA50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E82E5823-EA82-4FE0-B1B3-F134775BDA50}.Debug|Win32.Build.0 = Debug|Win32
+		{E82E5823-EA82-4FE0-B1B3-F134775BDA50}.Release|Win32.ActiveCfg = Release|Win32
+		{E82E5823-EA82-4FE0-B1B3-F134775BDA50}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

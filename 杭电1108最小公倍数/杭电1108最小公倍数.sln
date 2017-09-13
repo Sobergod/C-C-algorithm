@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杭电1108最小公倍数", "杭电1108最小公倍数\杭电1108最小公倍数.vcxproj", "{D0577FB4-D816-4E6E-BD09-F98E88A034A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0577FB4-D816-4E6E-BD09-F98E88A034A2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D0577FB4-D816-4E6E-BD09-F98E88A034A2}.Debug|Win32.Build.0 = Debug|Win32
+		{D0577FB4-D816-4E6E-BD09-F98E88A034A2}.Release|Win32.ActiveCfg = Release|Win32
+		{D0577FB4-D816-4E6E-BD09-F98E88A034A2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

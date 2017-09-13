@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杭电1064  Financial Management", "杭电1064  Financial Management\杭电1064  Financial Management.vcxproj", "{DB770C8E-27DE-4967-B57A-DA97A2B8442C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB770C8E-27DE-4967-B57A-DA97A2B8442C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB770C8E-27DE-4967-B57A-DA97A2B8442C}.Debug|Win32.Build.0 = Debug|Win32
+		{DB770C8E-27DE-4967-B57A-DA97A2B8442C}.Release|Win32.ActiveCfg = Release|Win32
+		{DB770C8E-27DE-4967-B57A-DA97A2B8442C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

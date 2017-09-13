@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杭电3046Pleasant and big wolf（最小割）", "杭电3046Pleasant and big wolf（最小割）\杭电3046Pleasant and big wolf（最小割）.vcxproj", "{7326E2BE-6BA9-417C-B511-193F881EAF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7326E2BE-6BA9-417C-B511-193F881EAF99}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7326E2BE-6BA9-417C-B511-193F881EAF99}.Debug|Win32.Build.0 = Debug|Win32
+		{7326E2BE-6BA9-417C-B511-193F881EAF99}.Release|Win32.ActiveCfg = Release|Win32
+		{7326E2BE-6BA9-417C-B511-193F881EAF99}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

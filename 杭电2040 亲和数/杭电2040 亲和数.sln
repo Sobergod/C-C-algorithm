@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "杭电2040 亲和数", "杭电2040 亲和数\杭电2040 亲和数.vcxproj", "{936CC557-CB3E-48B3-974A-697CBAE3F396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{936CC557-CB3E-48B3-974A-697CBAE3F396}.Debug|Win32.ActiveCfg = Debug|Win32
+		{936CC557-CB3E-48B3-974A-697CBAE3F396}.Debug|Win32.Build.0 = Debug|Win32
+		{936CC557-CB3E-48B3-974A-697CBAE3F396}.Release|Win32.ActiveCfg = Release|Win32
+		{936CC557-CB3E-48B3-974A-697CBAE3F396}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

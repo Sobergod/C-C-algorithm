@@ -1,0 +1,14 @@
+﻿生成启动时间为 2014/3/07/星期五 20:13:26。
+     1>项目“c:\Users\lenovo\documents\visual studio 2012\Projects\杭电1012u Calculate e\杭电1012u Calculate e\杭电1012u Calculate e.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         H:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "u Calculate e.cpp"
+         u Calculate e.cpp
+     1>c:\users\lenovo\documents\visual studio 2012\projects\杭电1012u calculate e\杭电1012u calculate e\u calculate e.cpp(4): warning C4101: “t”: 未引用的局部变量
+       Link:
+         H:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lenovo\documents\visual studio 2012\Projects\杭电1012u Calculate e\Debug\杭电1012u Calculate e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\lenovo\documents\visual studio 2012\Projects\杭电1012u Calculate e\Debug\杭电1012u Calculate e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lenovo\documents\visual studio 2012\Projects\杭电1012u Calculate e\Debug\杭电1012u Calculate e.lib" /MACHINE:X86 "Debug\u Calculate e.obj"
+         杭电1012u Calculate e.vcxproj -> c:\users\lenovo\documents\visual studio 2012\Projects\杭电1012u Calculate e\Debug\杭电1012u Calculate e.exe
+     1>已完成生成项目“c:\Users\lenovo\documents\visual studio 2012\Projects\杭电1012u Calculate e\杭电1012u Calculate e\杭电1012u Calculate e.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.33

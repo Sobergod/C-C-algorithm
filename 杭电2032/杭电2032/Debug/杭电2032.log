@@ -1,0 +1,10 @@
+﻿生成启动时间为 2013/11/14/星期四 18:54:11。
+     1>项目“C:\Users\lenovo\Documents\Visual Studio 2012\Projects\杭电2032\杭电2032\杭电2032.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         H:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Documents\Visual Studio 2012\Projects\杭电2032\Debug\杭电2032.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo\Documents\Visual Studio 2012\Projects\杭电2032\Debug\杭电2032.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Documents\Visual Studio 2012\Projects\杭电2032\Debug\杭电2032.lib" /MACHINE:X86 "Debug\杭电2032.obj"
+         杭电2032.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2012\Projects\杭电2032\Debug\杭电2032.exe
+     1>已完成生成项目“C:\Users\lenovo\Documents\Visual Studio 2012\Projects\杭电2032\杭电2032\杭电2032.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.26
